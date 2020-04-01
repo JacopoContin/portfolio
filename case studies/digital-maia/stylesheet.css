@@ -1,0 +1,6 @@
+body {
+    size: 100vh;
+    margin: 0;
+    height: 100vh;
+    scroll-behavior: none;
+}
