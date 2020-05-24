@@ -79,12 +79,12 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display
     margin: 0 auto;
    }
 
-   @media screen and (max-width: 1340px) {
+   /*@media screen and (max-width: 1340px) {
     #face {
       width: 70%;
     }
    }
-
+*/
    @media screen and (max-width: 800px) {
     #face {
       width: auto;
